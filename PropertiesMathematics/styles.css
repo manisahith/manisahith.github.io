@@ -1,0 +1,147 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+  font-family: 'Delius Swash Caps', cursive;
+}
+
+h1{
+  color: #88FFF7;
+  font-size: 100px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+hr {
+  border: dotted #0CECDD 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+h2{
+  color: #53B8BB;
+  font-family: 'Pangolin', cursive;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #53B8BB;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+}
+
+h4 {
+  font-family: 'Otomanopee One', sans-serif;
+  color: #7DEDFF;
+  font-weight: normal;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #88FFF7;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+a:hover {
+  color: #0CECDD;
+}
+
+.table {
+  border: 1px solid black;
+        font-family: 'Amita', cursive;
+        font-size: 25px;
+}
+
+.top-container {
+  text-align: center;
+  background-color: #171010;
+  position: relative;
+  padding-top: 100px;
+  height: 800px;
+}
+
+.top-sym {
+  position: absolute;
+  left: 400px;
+  bottom: 600px;
+}
+
+.bottom-sym {
+  position: absolute;
+  right: 400px;
+  top: 600px;
+}
+
+.top-sym-right {
+  position: absolute;
+  right: 400px;
+  bottom: 600px;
+}
+
+.bottom-sym-left {
+  position: absolute;
+  left: 400px;
+  top: 600px;
+}
+
+.middle-container {
+  margin: 100px 0 20px;
+}
+
+.intro {
+width: 30%;
+margin:auto;
+}
+
+.bottom-container {
+  background-color: teal;
+  padding: 100px 0 20px;
+}
+
+.github {
+  float: none;
+}
+
+.githubstrong {
+  font-weight: bolder;
+}
+
+.btn {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #39A6A3;
+  font-size: 20px;
+  background: black;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #black;
+  text-decoration: none;
+}
+
+.our {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #white;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.our:hover {
+  background: #53B8BB;
+  text-decoration: none;
+}
